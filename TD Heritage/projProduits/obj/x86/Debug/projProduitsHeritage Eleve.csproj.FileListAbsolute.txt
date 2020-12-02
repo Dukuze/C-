@@ -1,0 +1,4 @@
+Y:\SLAM2_TD6_ Heritage- Produit_Eleves\projProduits\obj\x86\Debug\projProduits.exe
+Y:\SLAM2_TD6_ Heritage- Produit_Eleves\projProduits\obj\x86\Debug\projProduits.pdb
+F:\TD Heritage produits eleves - Sidky Omid\projProduits\obj\x86\Debug\projProduits.exe
+F:\TD Heritage produits eleves - Sidky Omid\projProduits\obj\x86\Debug\projProduits.pdb

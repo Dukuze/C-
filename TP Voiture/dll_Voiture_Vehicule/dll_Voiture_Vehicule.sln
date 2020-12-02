@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dll_Voiture_Vehicule", "dll_Voiture_Vehicule\dll_Voiture_Vehicule.csproj", "{F4E7D28F-68B3-418B-B880-63653852242B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E7D28F-68B3-418B-B880-63653852242B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E7D28F-68B3-418B-B880-63653852242B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E7D28F-68B3-418B-B880-63653852242B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E7D28F-68B3-418B-B880-63653852242B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

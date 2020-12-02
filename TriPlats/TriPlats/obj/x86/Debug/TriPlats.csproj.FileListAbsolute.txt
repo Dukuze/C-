@@ -1,0 +1,13 @@
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.FormTriPlats.resources
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.Properties.Resources.resources
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.csproj.GenerateResource.Cache
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\bin\Debug\TriPlats.exe
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\bin\Debug\TriPlats.pdb
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.exe
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.pdb
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\obj\x86\Debug\TriPlats.csprojResolveAssemblyReference.cache
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\bin\Debug\TriPlats.exe.config
+C:\Users\SIDKY-O20\Documents\TriPlats\TriPlats\bin\Debug\MySql.Data.dll
+P:\slam4\TriPlats\TriPlats\bin\Debug\TriPlats.exe.config
+P:\slam4\TriPlats\TriPlats\obj\x86\Debug\TriPlats.exe
+P:\slam4\TriPlats\TriPlats\obj\x86\Debug\TriPlats.pdb
